@@ -3,6 +3,8 @@ title: "About me"
 ---
 
 
-This section also must include: 
 
-- first name/surname, teacher’s name, class name and academic year
+- Caroline Ransquin
+- Teacher's name : Bénédicte Bouchet
+- Groupe 5
+- 2019-2020
