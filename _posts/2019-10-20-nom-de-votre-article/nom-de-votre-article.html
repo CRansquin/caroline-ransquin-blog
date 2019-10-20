@@ -19,366 +19,39 @@
  <!--/radix_placeholder_import_source-->
 
   <!--radix_placeholder_meta_tags-->
-  <title>Caroline's Blog: Connections between asthma and environmental factors</title>
+  <title>Microbes from farms may protect children from asthma even in cities</title>
+  
+  <meta property="description" itemprop="description" content="This article discusses a Finish study about asthma and bacteria from farms."/>
   
   
-  
+  <!--  https://schema.org/Article -->
+  <meta property="article:published" itemprop="datePublished" content="2019-10-20"/>
+  <meta property="article:created" itemprop="dateCreated" content="2019-10-20"/>
+  <meta name="article:author" content="Caroline Ransquin"/>
   
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Caroline&#39;s Blog: Connections between asthma and environmental factors"/>
+  <meta property="og:title" content="Microbes from farms may protect children from asthma even in cities"/>
   <meta property="og:type" content="article"/>
+  <meta property="og:description" content="This article discusses a Finish study about asthma and bacteria from farms."/>
   <meta property="og:locale" content="en_US"/>
-  <meta property="og:site_name" content="Caroline&#39;s Blog"/>
   
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Caroline&#39;s Blog: Connections between asthma and environmental factors"/>
+  <meta property="twitter:title" content="Microbes from farms may protect children from asthma even in cities"/>
+  <meta property="twitter:description" content="This article discusses a Finish study about asthma and bacteria from farms."/>
   
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":["Connections between asthma and environmental factors"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Microbes from farms may protect children from asthma even in cities"]},{"type":"character","attributes":{},"value":["This article discusses a Finish study about asthma and bacteria from farms.\n"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","url"]}},"value":[{"type":"character","attributes":{},"value":["Caroline Ransquin"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":[]}},"value":[]}]}]},{"type":"character","attributes":{},"value":["10-20-2019"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
-  <!--radix_placeholder_navigation_in_header-->
   
-  <script type="application/javascript">
-  
-    window.headroom_prevent_pin = false;
-  
-    window.document.addEventListener("DOMContentLoaded", function (event) {
-  
-      // initialize headroom for banner
-      var header = $('header').get(0);
-      var headerHeight = header.offsetHeight;
-      var headroom = new Headroom(header, {
-        onPin : function() {
-          if (window.headroom_prevent_pin) {
-            window.headroom_prevent_pin = false;
-            headroom.unpin();
-          }
-        }
-      });
-      headroom.init();
-      if(window.location.hash)
-        headroom.unpin();
-      $(header).addClass('headroom--transition');
-  
-      // offset scroll location for banner on hash change
-      // (see: https://github.com/WickyNilliams/headroom.js/issues/38)
-      window.addEventListener("hashchange", function(event) {
-        window.scrollTo(0, window.pageYOffset - (headerHeight + 25));
-      });
-  
-      // responsive menu
-      $('.distill-site-header').each(function(i, val) {
-        var topnav = $(this);
-        var toggle = topnav.find('.nav-toggle');
-        toggle.on('click', function() {
-          topnav.toggleClass('responsive');
-        });
-      });
-  
-      // nav dropdowns
-      $('.nav-dropbtn').click(function(e) {
-        $(this).next('.nav-dropdown-content').toggleClass('nav-dropdown-active');
-        $(this).parent().siblings('.nav-dropdown')
-           .children('.nav-dropdown-content').removeClass('nav-dropdown-active');
-      });
-      $("body").click(function(e){
-        $('.nav-dropdown-content').removeClass('nav-dropdown-active');
-      });
-      $(".nav-dropdown").click(function(e){
-        e.stopPropagation();
-      });
-    });
+  <script type="text/json" id="radix-resource-manifest">
+  {"type":"character","attributes":{},"value":["nom-de-votre-article_files/bowser-1.9.3/bowser.min.js","nom-de-votre-article_files/distill-2.2.21/template.v2.js","nom-de-votre-article_files/jquery-1.11.3/jquery.min.js","nom-de-votre-article_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
-  
-  <style type="text/css">
-  
-  /* Theme (user-documented overrideables for nav appearance) */
-  
-  .distill-site-nav {
-    color: rgba(255, 255, 255, 0.8);
-    background-color: #455a64;
-    font-size: 15px;
-    font-weight: 300;
-  }
-  
-  .distill-site-nav a {
-    color: inherit;
-    text-decoration: none;
-  }
-  
-  .distill-site-nav a:hover {
-    color: white;
-  }
-  
-  @media print {
-    .distill-site-nav {
-      display: none;
-    }
-  }
-  
-  .distill-site-header {
-  
-  }
-  
-  .distill-site-footer {
-  
-  }
-  
-  
-  /* Site Header */
-  
-  .distill-site-header {
-    width: 100%;
-    box-sizing: border-box;
-    z-index: 3;
-  }
-  
-  .distill-site-header .nav-left {
-    display: inline-block;
-    margin-left: 8px;
-  }
-  
-  @media screen and (max-width: 768px) {
-    .distill-site-header .nav-left {
-      margin-left: 0;
-    }
-  }
-  
-  
-  .distill-site-header .nav-right {
-    float: right;
-    margin-right: 8px;
-  }
-  
-  .distill-site-header a,
-  .distill-site-header .title {
-    display: inline-block;
-    text-align: center;
-    padding: 14px 10px 14px 10px;
-  }
-  
-  .distill-site-header .title {
-    font-size: 18px;
-  }
-  
-  .distill-site-header .logo {
-    padding: 0;
-  }
-  
-  .distill-site-header .logo img {
-    display: none;
-    max-height: 20px;
-    width: auto;
-    margin-bottom: -4px;
-  }
-  
-  .distill-site-header .nav-image img {
-    max-height: 18px;
-    width: auto;
-    display: inline-block;
-    margin-bottom: -3px;
-  }
-  
-  
-  
-  @media screen and (min-width: 1000px) {
-    .distill-site-header .logo img {
-      display: inline-block;
-    }
-    .distill-site-header .nav-left {
-      margin-left: 20px;
-    }
-    .distill-site-header .nav-right {
-      margin-right: 20px;
-    }
-    .distill-site-header .title {
-      padding-left: 12px;
-    }
-  }
-  
-  
-  .distill-site-header .nav-toggle {
-    display: none;
-  }
-  
-  .nav-dropdown {
-    display: inline-block;
-    position: relative;
-  }
-  
-  .nav-dropdown .nav-dropbtn {
-    border: none;
-    outline: none;
-    color: rgba(255, 255, 255, 0.8);
-    padding: 16px 10px;
-    background-color: transparent;
-    font-family: inherit;
-    font-size: inherit;
-    font-weight: inherit;
-    margin: 0;
-    margin-top: 1px;
-    z-index: 2;
-  }
-  
-  .nav-dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: white;
-    min-width: 200px;
-    border: 1px solid rgba(0,0,0,0.15);
-    border-radius: 4px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.1);
-    z-index: 1;
-    margin-top: 2px;
-    white-space: nowrap;
-    padding-top: 4px;
-    padding-bottom: 4px;
-  }
-  
-  .nav-dropdown-content hr {
-    margin-top: 4px;
-    margin-bottom: 4px;
-    border: none;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  }
-  
-  .nav-dropdown-active {
-    display: block;
-  }
-  
-  .nav-dropdown-content a, .nav-dropdown-content .nav-dropdown-header {
-    color: black;
-    padding: 6px 24px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-  }
-  
-  .nav-dropdown-content .nav-dropdown-header {
-    display: block;
-    padding: 5px 24px;
-    padding-bottom: 0;
-    text-transform: uppercase;
-    font-size: 14px;
-    color: #999999;
-    white-space: nowrap;
-  }
-  
-  .nav-dropdown:hover .nav-dropbtn {
-    color: white;
-  }
-  
-  .nav-dropdown-content a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-  
-  .nav-right .nav-dropdown-content {
-    margin-left: -45%;
-    right: 0;
-  }
-  
-  @media screen and (max-width: 768px) {
-    .distill-site-header a, .distill-site-header .nav-dropdown  {display: none;}
-    .distill-site-header a.nav-toggle {
-      float: right;
-      display: block;
-    }
-    .distill-site-header .title {
-      margin-left: 0;
-    }
-    .distill-site-header .nav-right {
-      margin-right: 0;
-    }
-    .distill-site-header {
-      overflow: hidden;
-    }
-    .nav-right .nav-dropdown-content {
-      margin-left: 0;
-    }
-  }
-  
-  
-  @media screen and (max-width: 768px) {
-    .distill-site-header.responsive {position: relative;}
-    .distill-site-header.responsive a.nav-toggle {
-      position: absolute;
-      right: 0;
-      top: 0;
-    }
-    .distill-site-header.responsive a,
-    .distill-site-header.responsive .nav-dropdown {
-      display: block;
-      text-align: left;
-    }
-    .distill-site-header.responsive .nav-left,
-    .distill-site-header.responsive .nav-right {
-      width: 100%;
-    }
-    .distill-site-header.responsive .nav-dropdown {float: none;}
-    .distill-site-header.responsive .nav-dropdown-content {position: relative;}
-    .distill-site-header.responsive .nav-dropdown .nav-dropbtn {
-      display: block;
-      width: 100%;
-      text-align: left;
-    }
-  }
-  
-  /* Site Footer */
-  
-  .distill-site-footer {
-    width: 100%;
-    overflow: hidden;
-    box-sizing: border-box;
-    z-index: 3;
-    margin-top: 30px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    text-align: center;
-  }
-  
-  /* Headroom */
-  
-  d-title {
-    padding-top: 6rem;
-  }
-  
-  @media print {
-    d-title {
-      padding-top: 4rem;
-    }
-  }
-  
-  .headroom {
-    z-index: 1000;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-  }
-  
-  .headroom--transition {
-    transition: all .4s ease-in-out;
-  }
-  
-  .headroom--unpinned {
-    top: -100px;
-  }
-  
-  .headroom--pinned {
-    top: 0;
-  }
-  
-  </style>
-  
-  <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet"/>
-  <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet"/>
-  <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
+  <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
   <!--radix_placeholder_distill-->
   
@@ -1254,421 +927,334 @@
   </script>
   
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
-  <script src="site_libs/bowser-1.9.3/bowser.min.js"></script>
-  <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
-  <script src="site_libs/distill-2.2.21/template.v2.js"></script>
+  <script src="nom-de-votre-article_files/jquery-1.11.3/jquery.min.js"></script>
+  <script src="nom-de-votre-article_files/bowser-1.9.3/bowser.min.js"></script>
+  <script src="nom-de-votre-article_files/webcomponents-2.0.0/webcomponents.js"></script>
+  <script src="nom-de-votre-article_files/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
   <!--/radix_placeholder_site_in_header-->
 
 
 </head>
 
-<body class="layout-listing">
+<body>
 
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Connections between asthma and environmental factors","authors":[]}
+{"title":"Microbes from farms may protect children from asthma even in cities","description":"This article discusses a Finish study about asthma and bacteria from farms.","authors":[{"author":"Caroline Ransquin","authorURL":{},"affiliation":"&nbsp;","affiliationURL":"#"}],"publishedDate":"2019-10-20T00:00:00.000+02:00","citationText":"Ransquin, 2019"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
 <!--radix_placeholder_navigation_before_body-->
-<header class="header header--fixed" role="banner">
-<nav class="distill-site-nav distill-site-header">
-<div class="nav-left">
-<a href="index.html" class="title">Caroline's Blog</a>
-</div>
-<div class="nav-right">
-<a href="index.html">Home</a>
-<a href="english-activity.html">Miscellaneous</a>
-<a href="about.html">About</a>
-<a href="https://github.com/CRansquin/caroline-ransquin-blog">
-<i class="fab fa-github"></i>
-</a>
-<a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
-</div>
-</nav>
-</header>
 <!--/radix_placeholder_navigation_before_body-->
 <!--radix_placeholder_site_before_body-->
 <!--/radix_placeholder_site_before_body-->
-<!--radix_placeholder_article_listing-->
-
-<style type="text/css">
-
-/* Styles for listing layout (hide title) */
-.layout-listing d-title, .layout-listing .d-title {
-  display: none;
-}
-
-/* Styles for posts lists (not auto-injected) */
-
-
-.posts-with-sidebar {
-  padding-left: 45px;
-  padding-right: 45px;
-}
-
-.posts-list .description h2,
-.posts-list .description p {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
-}
-
-.posts-list .description h2 {
-  font-weight: 700;
-  border-bottom: none;
-  padding-bottom: 0;
-}
-
-.posts-list h2.post-tag {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-  padding-bottom: 12px;
-}
-.posts-list {
-  margin-top: 60px;
-  margin-bottom: 24px;
-}
-
-.posts-list .post-preview {
-  text-decoration: none;
-  overflow: hidden;
-  display: block;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  padding: 24px 0;
-}
-
-.post-preview-last {
-  border-bottom: none !important;
-}
-
-.posts-list .posts-list-caption {
-  grid-column: screen;
-  font-weight: 400;
-}
-
-.posts-list .post-preview h2 {
-  margin: 0 0 6px 0;
-  line-height: 1.2em;
-  font-style: normal;
-  font-size: 24px;
-}
-
-.posts-list .post-preview p {
-  margin: 0 0 12px 0;
-  line-height: 1.4em;
-  font-size: 16px;
-}
-
-.posts-list .post-preview .thumbnail {
-  box-sizing: border-box;
-  margin-bottom: 24px;
-  position: relative;
-  max-width: 500px;
-}
-.posts-list .post-preview img {
-  width: 100%;
-  display: block;
-}
-
-.posts-list .metadata {
-  font-size: 12px;
-  line-height: 1.4em;
-  margin-bottom: 18px;
-}
-
-.posts-list .metadata > * {
-  display: inline-block;
-}
-
-.posts-list .metadata .publishedDate {
-  margin-right: 1em;
-}
-
-.posts-list .metadata .tags {
-  margin-top: 1em;
-}
-
-.posts-list .tags .tag {
-  color: rgba(0,0,0,0.67);
-  padding: 0.3em 0.5em;
-  margin: 0;
-  font-size: 80%;
-  border: 1px solid rgba(0,0,0,0.4);
-  border-radius: 3px;
-  text-transform: uppercase;
-  font-weight: 500;
-}
-
-.posts-list img {
-  opacity: 1;
-}
-
-.posts-list img[data-src] {
-  opacity: 0;
-}
-
-.posts-more {
-  clear: both;
-}
-
-
-.posts-sidebar {
-  font-size: 16px;
-}
-
-.posts-sidebar h3 {
-  font-size: 16px;
-  margin-top: 0;
-  margin-bottom: 0.5em;
-  font-weight: 400;
-  text-transform: uppercase;
-}
-
-.sidebar-section {
-  margin-bottom: 30px;
-}
-
-.categories ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.categories li {
-  color: rgba(0, 0, 0, 0.8);
-  margin-bottom: 0;
-}
-
-.categories li>a {
-  border-bottom: none;
-}
-
-.categories li>a:hover {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
-}
-
-.categories .active {
-  font-weight: 600;
-}
-
-.categories .category-count {
-  color: rgba(0, 0, 0, 0.4);
-}
-
-
-@media(min-width: 768px) {
-  .posts-list .post-preview h2 {
-    font-size: 26px;
-  }
-  .posts-list .post-preview .thumbnail {
-    float: right;
-    width: 35%;
-    margin-bottom: 0;
-  }
-  .posts-list .post-preview .description {
-    float: left;
-    width: 45%;
-  }
-  .posts-list .post-preview .metadata {
-    float: left;
-    width: 15%;
-    margin-top: 8px;
-  }
-  .posts-list .post-preview p {
-    margin: 0 0 12px 0;
-    line-height: 1.5em;
-    font-size: 16px;
-  }
-  .posts-with-sidebar .posts-list {
-    float: left;
-    width: 72%;
-  }
-  .posts-with-sidebar .posts-sidebar {
-    float: right;
-    width: 20%;
-    margin-top: 60px;
-    padding-top: 24px;
-    padding-bottom: 24px;
-  }
-}
-
-.downlevel .posts-list .post-preview {
-  color: inherit;
-}
-
-</style>
-
-<script type="application/javascript">
-
-function init_posts_list() {
-
-  function load_image(img) {
-    var src = $(img).attr('data-src');
-    if (src) {
-      $(img).attr('src', src);
-      $(img).load(function() {
-        img.removeAttribute('data-src');
-      });
-    }
-  }
-
-  function set_posts_visible(posts, visible) {
-    if (visible) {
-
-      // show bottom border by default
-      $(posts).removeClass('post-preview-last');
-
-      // apply limits if need be
-      var max_posts = 25;
-      var apply_limits = $('.posts-container').hasClass('posts-apply-limit');
-      if (apply_limits && posts.length > max_posts) {
-        posts = $(posts).slice(0, max_posts);
-      } else {
-        $('.posts-more a').addClass('hidden');
-      }
-
-      // apply last style
-      $(posts.slice(-1)[0]).addClass('post-preview-last');
-
-      $(posts).removeClass('hidden');
-      $(posts).find('img[data-src]').each(function(i, img) {
-        load_image(img);
-      });
-    } else {
-      $(posts).addClass('hidden');
-    }
-  }
-
-  function apply_hash_filter() {
-
-    // clear active state
-    $('.categories .active').removeClass('active');
-
-    // mark all posts invisible to start
-    set_posts_visible($('.posts-list').children('a'), false);
-
-    // if we have a hash filter
-    if (window.location.hash) {
-
-      // mark posts that match the category visible
-      var page_category = window.location.hash.replace("#", "");
-      var posts = $('.post-metadata').map(function(idx, script) {
-        var metadata = $.parseJSON($(script).html());
-        var post = null;
-        $.each(metadata.categories, function(idx, category) {
-          category = category.replace(/ /g,"_");
-          if (category == page_category) {
-            post = $(script).parent().get();
-            return false;
-          }
-        });
-        return post;
-      });
-      set_posts_visible(posts, true);
-
-      // mark the hash active
-      $('.categories li>a[href="' + window.location.hash + '"]').addClass('active');
-
-    } else {
-
-      // no hash filter, make all posts visible (subject to max display)
-      set_posts_visible($('.posts-list').children(), true);
-
-    }
-  }
-
-  // more articles
-  function apply_post_limits(apply) {
-    if (apply) {
-      $('.posts-container').addClass('posts-apply-limit');
-      $('.posts-more a').removeClass('hidden');
-    } else {
-      $('.posts-container').removeClass('posts-apply-limit');
-      $('.posts-more a').addClass('hidden');
-    }
-  }
-
-  // hash filter handling
-  apply_hash_filter();
-  $(window).on('hashchange',function() {
-    apply_post_limits(true);
-    apply_hash_filter();
-  });
-
-  // more articles link
-  $('.posts-more a').click(function(e) {
-    e.preventDefault();
-    apply_post_limits(false);
-    apply_hash_filter();
-    return false;
-  });
-
-}
-
-</script>
-
-
-
-<div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
-<div class="posts-list">
-<h1 class="posts-list-caption">Connections between asthma and environmental factors</h1>
-<a href="posts/2019-10-20-nom-de-votre-article/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Oct. 19, 2019</div>
-</div>
-<div class="thumbnail"></div>
-<div class="description">
-<h2>Microbes from farms may protect children from asthma even in cities</h2>
-<p>This article discusses a Finish study about asthma and bacteria from farms.</p>
-</div>
-</a>
-<a href="posts/2019-09-18-article-1/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":["elephant","track"]}</script>
-<div class="metadata">
-<div class="publishedDate">Sept. 18, 2019</div>
-</div>
-<div class="thumbnail">
-<img data-src="posts/2019-09-18-article-1/image/where-s-my-elephant.jpg"/>
-</div>
-<div class="description">
-<h2>Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time</h2>
-<p></p>
-</div>
-</a>
-</div>
-<div class="posts-sidebar">
-<div class="sidebar-section categories">
-<h3>Categories</h3>
-<ul>
-<li>
-<a href="#elephant">elephant</a>
-<span class="category-count">(1)</span>
-</li>
-<li>
-<a href="#track">track</a>
-<span class="category-count">(1)</span>
-</li>
-</ul>
-</div>
-</div>
-<div class="posts-more">
-<a href="#">More articles &raquo;</a>
-</div>
-</div>
-<!--/radix_placeholder_article_listing-->
 
 <div class="d-title">
-<h1>Connections between asthma and environmental factors</h1>
-
+<h1>Microbes from farms may protect children from asthma even in cities</h1>
+<p>This article discusses a Finish study about asthma and bacteria from farms.</p>
 </div>
 
+<div class="d-byline">
+  Caroline Ransquin true 
+  
+<br/>10-20-2019
+</div>
 
 <div class="d-article">
-<div class="layout-chunk" data-layout="l-body">
-
-</div>
+<h2 id="article">Article</h2>
+<p>Children who <strong>grow up</strong> on <strong>farms</strong> have a lower risk of developing asthma, and now it <strong>seems</strong> that may be due to microbes that can also be found in <strong>urban and suburban homes</strong>.</p>
+<p>Pirkka Kirjavainen at <strong>the National Institute for Health and Welfare</strong> in Finland and his colleagues analysed the microbes from <strong>living room</strong> <strong>floor</strong> dust from the homes of a group of 197 children living in <strong>rural areas</strong> of Finland – half living on farms – and 182 children living in suburban or urban places.</p>
+<p><strong>They took</strong> these <strong>samples</strong> when the children were 2 months old and <strong>likely</strong> <strong>to be crawling</strong>, and <strong>therefore</strong> exposed to microbes on the floor. Then they <strong>followed up</strong> at 6 years old to see how many children were <strong>diagnosed</strong> with asthma.</p>
+<p>For the rural group there was a clear difference in the <strong>dust</strong> found in farms compared to other homes. The dust from farm homes had a <strong>high variety of bacteria</strong>, <strong>including</strong> <strong>those</strong> from <strong>cattle</strong> that were not present in <strong>non-farm homes</strong>. Non-farm homes had a higher proportion of <strong>human-associated bacteria</strong>, including members of the Streptococcaceae family and <strong>Straphylococcus genus</strong>.</p>
+<p>These differences were associated with differences in asthma <strong>rates</strong>, with asthma being <strong>rarest</strong> <strong>among</strong> children <strong>brought up</strong> on farms. About 19 <strong>per cent</strong> of the children on non-farm homes had asthma, <strong>while</strong> only 9 per cent of kids on farms did. “<strong>Where</strong> there are more <strong>outdoor microbes</strong> and a low <strong>abundance</strong> of human microbes, we see <strong>lower</strong> asthma rates,” says Kirjavainen.</p>
+<p>For the suburban children, they found that the homes with a microbial community that was most like that of farm homes were <strong>correlated</strong> with a lower risk of asthma in the children at age 6, when asthma <strong>tends to</strong> develop.</p>
+<p>“There is an indication that early life <strong>exposure</strong> <strong>matters</strong> the most. Later exposure would seem to have an influence on asthma, but this is the optimal <strong>window</strong> to measure,” says Kirjavainen.</p>
+<p>When the team studied blood samples from the children, <strong>they found</strong> that those in homes with more farm-like bacteria didn’t produce <strong>immune responses</strong> to the bacteria, so they <strong>tolerate</strong> them better. The team then <strong>replicated</strong> this study with a group of 1031 German children, and found the same <strong>relationship</strong> between farm-like microbes in non-farm homes and a reduced risk of <strong>childhood</strong> asthma.</p>
+<p>Kirjavainen says there was a small association between having <strong>pets</strong> and farm-like microbes in the home, which could be due to the animals <strong>bringing</strong> in <strong>soil particles</strong>. The team saw no effect when they took into account <strong>gender</strong>, parental allergies, <strong>maternal education</strong>, <strong>smoking during pregnancy</strong>, or the number of <strong>siblings</strong> a child had. The next <strong>step</strong> is <strong>to determine</strong> what it is about the microbes that <strong>make them beneficial</strong>, and potentially <strong>devise</strong> a <strong>therapy</strong> that could <strong>induce</strong> these immune system effects in children.</p>
+<h2 id="vocabulary">Vocabulary :</h2>
+<table>
+<colgroup>
+<col style="width: 38%" />
+<col style="width: 61%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Word from the text</th>
+<th>Synonym/explanation in English</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>To grow up</td>
+<td>To grow toward or arrive at full stature or physical or mental maturity, to progress from childhood toward adulthood.</td>
+</tr>
+<tr class="even">
+<td>Farm</td>
+<td>A tract of land devoted to agricultual purposes and to the raising of domestic livestock.</td>
+</tr>
+<tr class="odd">
+<td>To seem</td>
+<td>To appear to the observation or understanding.</td>
+</tr>
+<tr class="even">
+<td>Urban homes</td>
+<td>A house in a city.</td>
+</tr>
+<tr class="odd">
+<td>Suburban homes</td>
+<td>A house of a suburb.</td>
+</tr>
+<tr class="even">
+<td>The National Institute for Health and Welfare</td>
+<td>A research and development institute under the Finnish Ministry of Social Affairs and Health.</td>
+</tr>
+<tr class="odd">
+<td>Living room</td>
+<td>The main room in a house where you usually relax in comfortable chairs and entertain guests.</td>
+</tr>
+<tr class="even">
+<td>Floor</td>
+<td>The level base of a room.</td>
+</tr>
+<tr class="odd">
+<td>Rural area</td>
+<td>A surface relating to the country, country people or life, or agriculture.</td>
+</tr>
+<tr class="even">
+<td>They took</td>
+<td>They removed.</td>
+</tr>
+<tr class="odd">
+<td>Samples</td>
+<td>Part of something used to examine.</td>
+</tr>
+<tr class="even">
+<td>Likely</td>
+<td>Expected.</td>
+</tr>
+<tr class="odd">
+<td>To crawl</td>
+<td>Move low to the ground.</td>
+</tr>
+<tr class="even">
+<td>Therefore</td>
+<td>So.</td>
+</tr>
+<tr class="odd">
+<td>To follow up</td>
+<td>To watch the development or progress of.</td>
+</tr>
+<tr class="even">
+<td>To diagnose</td>
+<td>To determine the identity of by an examination.</td>
+</tr>
+<tr class="odd">
+<td>Dust</td>
+<td>Matter in fine, powdery, dry particles.</td>
+</tr>
+<tr class="even">
+<td>High variety of bacteria</td>
+<td>A lot of types of microorganisms.</td>
+</tr>
+<tr class="odd">
+<td>Including</td>
+<td>Having as part of a whole, containing.</td>
+</tr>
+<tr class="even">
+<td>Those</td>
+<td>Pluriel of that.</td>
+</tr>
+<tr class="odd">
+<td>Cattle</td>
+<td>Large farm animals, as cows and steers, raised for their meat or milk.</td>
+</tr>
+<tr class="even">
+<td>Non-farm homes</td>
+<td>Houses that don’t do agriculture.</td>
+</tr>
+<tr class="odd">
+<td>Human-associated bacteria</td>
+<td>Bacteria that are combined with humans.</td>
+</tr>
+<tr class="even">
+<td>Straphylococcus genus</td>
+<td>A group of spherical bacteria.</td>
+</tr>
+<tr class="odd">
+<td>Rate</td>
+<td>A certain amount of one thing considered in relation to a unit of another thing.</td>
+</tr>
+<tr class="even">
+<td>Rarest</td>
+<td>Very uncommon.</td>
+</tr>
+<tr class="odd">
+<td>Among</td>
+<td>Be part of.</td>
+</tr>
+<tr class="even">
+<td>To bring up</td>
+<td>Educate.</td>
+</tr>
+<tr class="odd">
+<td>Per cent</td>
+<td>One one-hundredth part 1/100</td>
+</tr>
+<tr class="even">
+<td>While</td>
+<td>At the same time that.</td>
+</tr>
+<tr class="odd">
+<td>Where</td>
+<td>Whereabouts.</td>
+</tr>
+<tr class="even">
+<td>Outdoor microbes</td>
+<td>Outside microorganism, esp. a disease-causing bacterium.</td>
+</tr>
+<tr class="odd">
+<td>Lower</td>
+<td>Dimmer.</td>
+</tr>
+<tr class="even">
+<td>Abundance</td>
+<td>A great amount of.</td>
+</tr>
+<tr class="odd">
+<td>To correlate</td>
+<td>To show or establish a connexion between.</td>
+</tr>
+<tr class="even">
+<td>Tends to</td>
+<td>To be likely to do something, to happen often.</td>
+</tr>
+<tr class="odd">
+<td>Exposure</td>
+<td>Subjecting to the action or influence of something.</td>
+</tr>
+<tr class="even">
+<td>Matters</td>
+<td>Importance.</td>
+</tr>
+<tr class="odd">
+<td>Window</td>
+<td>A period of time.</td>
+</tr>
+<tr class="even">
+<td>They found</td>
+<td>They noticed.</td>
+</tr>
+<tr class="odd">
+<td>Immune reponses</td>
+<td>Reaction relating to the production of special cells in the body that combat disease.</td>
+</tr>
+<tr class="even">
+<td>Tolerate</td>
+<td>To endure.</td>
+</tr>
+<tr class="odd">
+<td>Replicated</td>
+<td>To repeat or reproduce.</td>
+</tr>
+<tr class="even">
+<td>Relationship</td>
+<td>Connexion.</td>
+</tr>
+<tr class="odd">
+<td>Childhood</td>
+<td>Infancy.</td>
+</tr>
+<tr class="even">
+<td>Pet</td>
+<td>An animal kept as a companion in the home.</td>
+</tr>
+<tr class="odd">
+<td>To bring</td>
+<td>To carry.</td>
+</tr>
+<tr class="even">
+<td>Soil particules</td>
+<td>The ground of earth.</td>
+</tr>
+<tr class="odd">
+<td>Gender</td>
+<td>One of the categories in such a set, as masculine or feminine.</td>
+</tr>
+<tr class="even">
+<td>Maternal education</td>
+<td>The act or process of educating relating to a mother.</td>
+</tr>
+<tr class="odd">
+<td>Smoking during pregnancy</td>
+<td>Using tabacco in the course of gestation.</td>
+</tr>
+<tr class="even">
+<td>Siblings</td>
+<td>Brothers and sisters.</td>
+</tr>
+<tr class="odd">
+<td>Step</td>
+<td>Any of a series of stages in a process or in achieving some goal.</td>
+</tr>
+<tr class="even">
+<td>To determine</td>
+<td>To conclude or figure out, such as after thinking over, or observing.</td>
+</tr>
+<tr class="odd">
+<td>Make them beneficial</td>
+<td>Become good for their health.</td>
+</tr>
+<tr class="even">
+<td>To device</td>
+<td>To lead to.</td>
+</tr>
+<tr class="odd">
+<td>Therapy</td>
+<td>Treatment of disease.</td>
+</tr>
+<tr class="even">
+<td>To induce</td>
+<td>To cause.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="analysis-table">Analysis table :</h2>
+<table>
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 77%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Researchers</td>
+<td>Pirkka Kirjavainen (and is colleagues) at the National Institute for Health and Welfare (Finland)</td>
+</tr>
+<tr class="even">
+<td>Published in, the magazine</td>
+<td>17 June 2019, New Scientist</td>
+</tr>
+<tr class="odd">
+<td>General topic</td>
+<td>Children who live in houses with farm microbes are less likely to develop asthma than other children.</td>
+</tr>
+<tr class="even">
+<td>Procedure/what was examined</td>
+<td>Analyse of microbes from living room floor dust from the homes of 197 children living in rural areas (1/2 on farms) and 182 children living in urban or suburban places for 2 months babies in Finland.At 6 years old, how many have asthma?Study of blood samples from the children.Reproduction of the study with 1031 German children.</td>
+</tr>
+<tr class="odd">
+<td>Conclusions/discovery</td>
+<td>Asthma is rarest among children brought up in farms –&gt; more outdoor microbes and less human microbes = lower asthma rate.Blood samples : homes with more farm-like bacteria = no immune responses.Study with German children : same relation.Small association between having pets and farm-like microbes in the home.No effect of gender, parental allergies, maternal education, smoking during pregnancy or number of brothers and sisters.</td>
+</tr>
+<tr class="even">
+<td>Remaining questions</td>
+<td>What is it about the microbes that make them beneficial? What could be the treatment that would induce these effects on the immune system of children?</td>
+</tr>
+</tbody>
+</table>
+<h2 id="sources">Sources :</h2>
+<p><a href="https://www.newscientist.com/article/2206654-microbes-from-farms-may-protect-children-from-asthma-even-in-cities/" class="uri">https://www.newscientist.com/article/2206654-microbes-from-farms-may-protect-children-from-asthma-even-in-cities/</a> <a href="https://www.merriam-webster.com/" class="uri">https://www.merriam-webster.com/</a> <a href="https://www.macmillandictionary.com/" class="uri">https://www.macmillandictionary.com/</a> <a href="https://www.wordreference.com/fr/" class="uri">https://www.wordreference.com/fr/</a> <a href="https://www.britannica.com/" class="uri">https://www.britannica.com/</a></p>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>

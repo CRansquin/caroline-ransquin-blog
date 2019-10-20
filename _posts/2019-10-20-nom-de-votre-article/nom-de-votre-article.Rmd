@@ -1,9 +1,9 @@
 ---
-title: "nom-de-votre-article"
+title: "Microbes from farms may protect children from asthma even in cities"
 description: |
-  A short description of the post.
+  This article discusses a Finish study about asthma and bacteria from farms.
 author:
-  - name: Nicolas Devilez
+  - name: Caroline Ransquin
     url: {}
 date: 10-20-2019
 output:
@@ -15,7 +15,106 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+## Article
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+Children who **grow up** on **farms** have a lower risk of developing asthma, and now it **seems** that may be due to microbes that can also be found in **urban and suburban homes**.
+
+Pirkka Kirjavainen at **the National Institute for Health and Welfare** in Finland and his colleagues analysed the microbes from **living room** **floor** dust from the homes of a group of 197 children living in **rural areas** of Finland – half living on farms – and 182 children living in suburban or urban places.
+
+**They took** these **samples** when the children were 2 months old and **likely** **to be crawling**, and **therefore** exposed to microbes on the floor. Then they **followed up** at 6 years old to see how many children were **diagnosed** with asthma.
+
+For the rural group there was a clear difference in the **dust** found in farms compared to other homes. The dust from farm homes had a **high variety of bacteria**, **including** **those** from **cattle** that were not present in **non-farm homes**. Non-farm homes had a higher proportion of **human-associated bacteria**, including members of the Streptococcaceae family and **Straphylococcus genus**.
+
+These differences were associated with differences in asthma **rates**, with asthma being **rarest** **among** children **brought up** on farms. About 19 **per cent** of the children on non-farm homes had asthma, **while** only 9 per cent of kids on farms did. “**Where** there are more **outdoor microbes** and a low **abundance** of human microbes, we see **lower** asthma rates,” says Kirjavainen.
+
+For the suburban children, they found that the homes with a microbial community that was most like that of farm homes were **correlated** with a lower risk of asthma in the children at age 6, when asthma **tends to** develop.
+
+“There is an indication that early life **exposure** **matters** the most. Later exposure would seem to have an influence on asthma, but this is the optimal **window** to measure,” says Kirjavainen.
+
+When the team studied blood samples from the children, **they found** that those in homes with more farm-like bacteria didn’t produce **immune responses** to the bacteria, so they **tolerate** them better. The team then **replicated** this study with a group of 1031 German children, and found the same **relationship** between farm-like microbes in non-farm homes and a reduced risk of **childhood** asthma.
+
+Kirjavainen says there was a small association between having **pets** and farm-like microbes in the home, which could be due to the animals **bringing** in **soil particles**. The team saw no effect when they took into account **gender**, parental allergies, **maternal education**, **smoking during pregnancy**, or the number of **siblings** a child had. The next **step** is **to determine** what it is about the microbes that **make them beneficial**, and potentially **devise** a **therapy** that could **induce**  these immune system effects in children.
+
+## Vocabulary : 
+ 
+| Word from the text | Synonym/explanation in English |
+|--------------------|--------------------------------|
+| To grow up         |To grow toward or arrive at full stature or physical or mental maturity, to progress from childhood toward adulthood.|
+| Farm | A tract of land devoted to agricultual purposes and to the raising of domestic livestock.|
+|To seem             |To appear to the observation or understanding.|
+|Urban homes         |A house in a city.|
+|Suburban homes      |A house of a suburb.| 
+|The National Institute for Health and Welfare |A research and development institute under the Finnish Ministry of Social Affairs and Health.|
+|Living room         |The main room in a house where you usually relax in comfortable chairs and entertain guests.|
+|Floor               |The level base of a room.|
+|Rural area          |A surface relating to the country, country people or life, or agriculture.|
+|They took           |They removed.|
+|Samples             |Part of something used to examine.|
+|Likely              |Expected.|
+|To crawl            |Move low to the ground.|
+|Therefore           |So.|
+|To follow up        |To watch the development or progress of.|
+|To diagnose         |To determine the identity of by an examination.|
+|Dust                |Matter in fine, powdery, dry particles.|
+|High variety of bacteria |A lot of types of microorganisms.| 
+|Including           |Having as part of a whole, containing.|
+|Those               |Pluriel of that.|
+|Cattle              |Large farm animals, as cows and steers, raised for their meat or milk.|
+|Non-farm homes      |Houses that don’t do agriculture.|
+|Human-associated bacteria |Bacteria that are combined with humans.|
+|Straphylococcus genus |A group of spherical bacteria.|
+|Rate |A certain amount of one thing considered in relation to a unit of another thing.|
+|Rarest 	|Very uncommon.|
+|Among 	|Be part of.|
+|To bring up 	|Educate.|
+|Per cent 	|One one-hundredth part 1/100|
+|While 	|At the same time that.|
+|Where 	|Whereabouts.|
+|Outdoor microbes 	|Outside microorganism, esp. a disease-causing bacterium.|
+|Lower 	|Dimmer.|
+|Abundance 	|A great amount of.|
+|To correlate 	|To show or establish a connexion between.|
+|Tends to 	|To be likely to do something, to happen often.|
+|Exposure 	|Subjecting to the action or influence of something.|
+|Matters 	|Importance.|
+|Window 	|A period of time.| 
+|They found 	|They noticed.|
+|Immune reponses 	|Reaction relating to the production of special cells in the body that combat disease.|
+|Tolerate 	|To endure.|
+|Replicated 	|To repeat or reproduce.|
+|Relationship 	|Connexion.|
+|Childhood 	|Infancy.|
+|Pet	|An animal kept as a companion in the home.|
+|To bring 	|To carry.|
+|Soil particules 	|The ground of earth.|
+|Gender 	|One of the categories in such a set, as masculine or feminine.|
+|Maternal education 	|The act or process of educating relating to a mother.|
+|Smoking during pregnancy 	|Using tabacco in the course of gestation.|
+|Siblings 	|Brothers and sisters.|
+|Step 	|Any of a series of stages in a process or in achieving some goal.|
+|To determine 	|To conclude or figure out, such as after thinking over, or observing.|
+|Make them beneficial 	|Become good for their health.|
+|To device	|To lead to.|
+|Therapy 	|Treatment of disease.|
+|To induce 	|To cause.|
+
+## Analysis table :
+
+|                                   |                                                                                                                          |
+| ----------------------------------| ------------------------------------------------------------------------------------------------------------------------|
+|Researchers	|Pirkka Kirjavainen (and is colleagues) at the National Institute for Health and Welfare (Finland) |
+|Published in, the magazine	|17 June 2019, New Scientist |
+|General topic	|Children who live in houses with farm microbes are less likely to develop asthma than other children.|
+|Procedure/what was examined |Analyse of microbes from living room floor dust from the homes of 197 children living in rural areas (1/2 on farms) and 182 children living in urban or suburban places for 2 months babies in Finland.At 6 years old, how many have asthma?Study of blood samples from the children.Reproduction of the study with 1031 German children.|
+|Conclusions/discovery |Asthma is rarest among children brought up in farms --> more outdoor microbes and less human microbes = lower asthma rate.Blood samples : homes with more farm-like bacteria = no immune responses.Study with German children : same relation.Small association between having pets and farm-like microbes in the home.No effect of gender, parental allergies, maternal education, smoking during pregnancy or number of brothers and sisters.|
+|Remaining questions |What is it about the microbes that make them beneficial? What could be the treatment that would induce these effects on the immune system of children?|
+
+## Sources :
+https://www.newscientist.com/article/2206654-microbes-from-farms-may-protect-children-from-asthma-even-in-cities/
+https://www.merriam-webster.com/
+https://www.macmillandictionary.com/
+https://www.wordreference.com/fr/
+https://www.britannica.com/
+
+
 
