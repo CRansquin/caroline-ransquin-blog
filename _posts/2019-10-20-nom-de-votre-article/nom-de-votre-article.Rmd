@@ -1,5 +1,5 @@
 ---
-title: "Microbes from farms may protect children from asthma even in cities"
+title: "Article analysis n°1 : Microbes from farms may protect children from asthma even in cities"
 description: |
   This article discusses a Finish study about asthma and bacteria from farms.
 author:
@@ -14,6 +14,12 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## Magazine and Source :
+
+NewScientist
+
+https://www.newscientist.com/article/2206654-microbes-from-farms-may-protect-children-from-asthma-even-in-cities/
 
 ## Article
 
@@ -102,15 +108,15 @@ Kirjavainen says there was a small association between having **pets** and farm-
 
 |                                   |                                                                                                                          |
 | ----------------------------------| ------------------------------------------------------------------------------------------------------------------------|
-|Researchers	|Pirkka Kirjavainen (and is colleagues) at the National Institute for Health and Welfare (Finland) |
-|Published in, the magazine	|17 June 2019, New Scientist |
-|General topic	|Children who live in houses with farm microbes are less likely to develop asthma than other children.|
-|Procedure/what was examined |Analyse of microbes from living room floor dust from the homes of 197 children living in rural areas (1/2 on farms) and 182 children living in urban or suburban places for 2 months babies in Finland.At 6 years old, how many have asthma?Study of blood samples from the children.Reproduction of the study with 1031 German children.|
-|Conclusions/discovery |Asthma is rarest among children brought up in farms --> more outdoor microbes and less human microbes = lower asthma rate.Blood samples : homes with more farm-like bacteria = no immune responses.Study with German children : same relation.Small association between having pets and farm-like microbes in the home.No effect of gender, parental allergies, maternal education, smoking during pregnancy or number of brothers and sisters.|
-|Remaining questions |What is it about the microbes that make them beneficial? What could be the treatment that would induce these effects on the immune system of children?|
+|**Researchers**	|Pirkka Kirjavainen (and is colleagues) at the National Institute for Health and Welfare (Finland). There are scientists.|
+|**Published in, the magazine**	|17 June 2019, New Scientist |
+|**General topic**	|Children who live in houses with farm microbes are less likely to develop asthma than other children.|
+|**Procedure/what was examined** |Analyse of microbes from living room floor dust from the homes of 197 children living in rural areas (1/2 on farms) and 182 children living in urban or suburban places for 2 months babies in Finland.At 6 years old, how many have asthma?Study of blood samples from the children.Reproduction of the study with 1031 German children.|
+|**Conclusions/discovery** |Asthma is rarest among children brought up in farms --> more outdoor microbes and less human microbes = lower asthma rate.Blood samples : homes with more farm-like bacteria = no immune responses.Study with German children : same relation.Small association between having pets and farm-like microbes in the home.No effect of gender, parental allergies, maternal education, smoking during pregnancy or number of brothers and sisters.|
+|**Remaining questions** |What is it about the microbes that make them beneficial? What could be the treatment that would induce these effects on the immune system of children?|
 
-## Sources :
-https://www.newscientist.com/article/2206654-microbes-from-farms-may-protect-children-from-asthma-even-in-cities/
+## Sources of Synonyms and Explanations in English :
+
 https://www.merriam-webster.com/
 https://www.macmillandictionary.com/
 https://www.wordreference.com/fr/
