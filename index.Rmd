@@ -1,5 +1,5 @@
 ---
-title: "Connections between asthma and environmental factors"
+title: "Connections between asthma and environmental factors
 site: distill::distill_website
 listing: posts
 ---
@@ -7,4 +7,18 @@ listing: posts
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
 ```
+
+
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                | 
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                | 
+|                    |                                |
 
