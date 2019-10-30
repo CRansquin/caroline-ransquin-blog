@@ -1,0 +1,75 @@
+---
+title: "Article analysis n°2: "
+description: |
+  A short description of the post.
+author:
+  - name: Caroline Ransquin
+    url: {}
+date: 10-30-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Magazine and Source : 
+
+
+
+
+
+## Article : 
+
+
+## Vocabulary : 
+
+| Word from the text | Synonym/explanation in English |
+|--------------------|--------------------------------|
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                | 
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                | 
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                | 
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                | 
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                |
+|                    |                                | 
+|                    |                                |
+
+## Analysis table :
+
+|                                   |                                                                                                                          |
+| ----------------------------------| ------------------------------------------------------------------------------------------------------------------------|
+|**Researchers**                |                                |
+|**Published in, the magazine** |                                |
+|**General topic**              |                                |
+|**Procedure/what was examined**|                                |
+|**Conclusions/discovery**      |                                | 
+|**Remaining questions**        |                                |
+
+## Sources of Synonyms and Explanations in English :
+
+

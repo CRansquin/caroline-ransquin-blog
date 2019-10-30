@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-10-30-nom-de-votre-article/",
+    "title": "Article analysis n°2: ",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Caroline Ransquin",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-30",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-30T18:32:19+01:00"
+  },
+  {
     "path": "posts/2019-10-20-nom-de-votre-article/",
     "title": "Article analysis n°1 : Microbes from farms may protect children from asthma even in cities",
     "description": "This article discusses a Finish study about asthma and bacteria from farms.",
@@ -12,7 +27,7 @@
     "date": "2019-10-20",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-22T13:04:29+02:00"
+    "last_modified": "2019-10-30T18:16:28+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
