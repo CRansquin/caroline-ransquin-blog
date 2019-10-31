@@ -1,5 +1,5 @@
 ---
-title: "Article analysis n°2: "
+title: "Article analysis n°2: Food insecurity in young adults raises risk for diabetes, high blood pressure, asthma"
 description: |
   A short description of the post.
 author:
@@ -17,47 +17,82 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Magazine and Source : 
 
+Science Daily
 
-
-
+<https://www.sciencedaily.com/releases/2019/10/191001165446.htm>
 
 ## Article : 
 
+A paradox of food insecurity in wealthy countries is its association with excess weight. Now, a study led by researchers at UC San Francisco finds that young adults in the United States who are food insecure not only are slightly more likely to be obese, they are significantly more likely to suffer from disorders associated with high body mass index, as well as obstructive airway diseases like asthma.
+
+In the study, which tracked close to 15,000 young adults who were representative of their peers nationwide, the researchers found that 1,647 (11 percent) were food insecure, defined as lacking "sufficient, safe and nutritious food that meets individuals' dietary needs and preferences for an active and healthy life."
+
+The study appears in the Journal of General Internal Medicine on Oct. 1, 2019.
+
+The researchers, led by first author Jason Nagata, MD, of the UCSF Department of Pediatrics, found a 7 percent difference between the two groups in the incidence of obesity: 36 percent of the food-secure group versus 43 percent for the food-insecure cohort.
+
+### Cyclic Nature of Food Insecurity May Promote Diabetes
+
+But when the researchers looked at the rate of diabetes among the 14,786 participants, who were aged between 24 and 32, they found that more than twice as many in the food-insecure group -- 5.1 percent compared with 2.2 percent -- said that they had been told by a medical provider that they had diabetes.
+
+"The cyclic nature of food insecurity, reflective of monthly paychecks and food assistance, may promote insulin resistance, due to alternating periods of food abundance and food shortage," said Nagata. Other factors that may play a role in diabetes include the consumption of cheaper, calorie-dense foods with a high content of fats and carbohydrates, and a low intake of fresh fruits and vegetables, he said.
+
+The food-insecure group was also more likely to report that they had been told by a medical provider that they had high blood pressure: 16 percent versus 11 percent for the food-secure participants.
+
+"Chronic stress from food insecurity may contribute to insulin resistance, obesity and high blood pressure," said senior author Sheri Weiser, MD, of the UCSF Department of Medicine. "Stress can activate the neuro-endocrine system and stimulate the release of glucocorticoids, which can alter metabolism, lead to increased fat accumulation and storage, and amplify binge-eating behavior."
+
+### Stress Linked to Inflammation, a Factor in Asthma
+
+Stress also plays a role in asthma, as well as other obstructive airway diseases like chronic bronchitis or emphysema. Among the food-secure group, 14 percent said they had been told by a medical provider that they had at least one of these conditions, compared with 21 percent of the food-insecure participants.
+
+The higher rate of smoking in the food-insecure group (46 percent versus 28 percent) may partially explain the disparity between the two groups, but stress is believed to lead to greater inflammation, which is implicated in asthma and asthma exacerbations, the authors noted. Additionally, food insecurity may lead to increased susceptibility to infections, which may boost the risk for asthma and bronchitis, they said.
+
+A second study, also led by Nagata, found that the same cohort of food-insecure young adults was at higher risk for mental health issues compared to their food-secure peers. Some 15 percent of the food-secure group had a depression diagnosis, compared with 29 percent for the food-insecure participants. A suicide attempt within the past 12 months was reported by 1.3 percent of the food-secure group, versus 3.6 percent for the food-insecure participants. Diagnoses for anxiety or panic disorder, and difficulties falling and staying asleep were also significantly higher among the food-insecure young adults.
 
 ## Vocabulary : 
 
 | Word from the text | Synonym/explanation in English |
 |--------------------|--------------------------------|
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                | 
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                | 
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                | 
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                | 
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                | 
-|                    |                                |
+|Wealthy             |                                |
+|Weight              |                                |
+|Led                 |                                |
+|Food insecure       |                                |
+|Slightly            |                                | 
+|Likely              |                                |
+|To suffer           |                                |
+|Discorders          |                                |
+|Body mass index     |BMI                             |
+|Obstructive airway diseases|                                |
+|To track            |                                | 
+|Peers nationwilde   |                                |
+|Lacking             |                                |
+|Sufficient          |                                |
+|Safe                |                                |
+|Nutritious          |                                |
+|Meets               |                                | 
+|Dietary needs       |                                |
+|Healthy             |                                |
+|To appear           |                                |
+|Food-secure         |                                |
+|To promote          |                                |
+|Diabetes            |                                | 
+|Medical provider    |                                |
+|Reflective          |                                |
+|Monthly paychecks   |                                |
+|Insulin             |                                |
+|Due                 |                                |
+|Shortage            |                                | 
+|Cheaper             |                                |
+|Fats                |                                |
+|Intake              |                                | 
+|High blood pressure |                                |
+|Neuro-endocrine system|                                |
+|Release             |                                |
+|Glucocorticoids     |                                |
+|Metabolism          |                                |
+|Storage             |                                | 
+|Binge-eating        |                                |
+|Behavior            |                                |
 
 ## Analysis table :
 
