@@ -4,11 +4,11 @@ description: |
   A short description of the post.
 author:
   - name: Caroline Ransquin
-    url: {}
 date: 10-30-2019
 output:
   distill::distill_article:
-    self_contained: false
+    self_contained: falseµ
+draft: TRUE
 ---
 
 ```{r setup, include=FALSE}
