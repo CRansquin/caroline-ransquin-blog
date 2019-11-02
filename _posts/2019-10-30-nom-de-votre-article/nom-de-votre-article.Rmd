@@ -62,7 +62,7 @@ A second study, also led by Nagata, found that the same cohort of food-insecure 
 |To suffer           |                                |
 |Discorders          |                                |
 |Body mass index     |BMI                             |
-|Obstructive airway diseases|                                |
+|Obstructive airway diseases|                         |
 |To track            |                                | 
 |Peers nationwilde   |                                |
 |Lacking             |                                |
