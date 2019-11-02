@@ -53,46 +53,45 @@ A second study, also led by Nagata, found that the same cohort of food-insecure 
 
 | Word from the text | Synonym/explanation in English |
 |--------------------|--------------------------------|
-|Wealthy             |                                |
-|Weight              |                                |
-|Led                 |                                |
+|Wealthy             |Prosperous                      |
+|Weight              |A system of units for expressing heaviness or mass|
+|Led (to lead)       |Manage                          |
 |Food insecure       |                                |
-|Slightly            |                                | 
-|Likely              |                                |
-|To suffer           |                                |
-|Discorders          |                                |
-|Body mass index     |BMI                             |
-|Obstructive airway diseases|                         |
-|To track            |                                | 
-|Peers nationwilde   |                                |
-|Lacking             |                                |
-|Sufficient          |                                |
-|Safe                |                                |
-|Nutritious          |                                |
-|Meets               |                                | 
-|Dietary needs       |                                |
-|Healthy             |                                |
-|To appear           |                                |
-|Food-secure         |                                |
-|To promote          |                                |
-|Diabetes            |                                | 
-|Medical provider    |                                |
-|Reflective          |                                |
-|Monthly paychecks   |                                |
-|Insulin             |                                |
-|Due                 |                                |
-|Shortage            |                                | 
-|Cheaper             |                                |
-|Fats                |                                |
-|Intake              |                                | 
-|High blood pressure |                                |
-|Neuro-endocrine system|                                |
-|Release             |                                |
-|Glucocorticoids     |                                |
-|Metabolism          |                                |
-|Storage             |                                | 
-|Binge-eating        |                                |
-|Behavior            |                                |
+|Slightly            |A little                        | 
+|Likely              |Possessing or displaying the qualities or characteristics that make something probable|
+|To suffer           |To feel pain or distress; sustain injury or harm|
+|Discorders          |A condition of pain, disease, or malfunction|
+|Body mass index     |IMC : A measurement of the relative percentages of fat and muscle mass in the human body|
+|Obstructive airway diseases|A chronic, progressive lung disease in which there is poor airflow in the lungs, characterized by wheezing, shortness of breath with difficulty exhaling, and cough|
+|To track            |To observe the progress         |
+|Peers nationwide    |Persons with equal country or nation|
+|Lacking             |Deficiency or absence          |
+|Sufficient          |Being as much as is needed, adequate, enough|
+|Safe                |Not exposed to the threat of danger or harm|
+|Nutritious          |Providing nourishment           |
+|Meets               |Provide for needs               | 
+|Dietary needs       |Needs relating to diet          |
+|Healthy             |Enjoying good health            |
+|To appear           |To be published or made available to the public|
+|To promote          |To contribute to the progress or growth of|
+|Diabetes            |Any of a group of diseases characterized by high blood sugar levels caused by insufficient production of insulin| 
+|Medical provider    |Healthcare professional         |
+|Reflective          |Relating to                     |
+|Monthly paychecks   |A check issued to an employee in payment of salary or wages each month|
+|Insulin             |A polypeptide hormone that is secreted by the beta cells of the islets of Langerhans in the pancreas and functions in the regulation of carbohydrate and fat metabolism, especially the conversion of glucose to glycogen, which lowers the blood glucose level|
+|Due                 |Because of                      |
+|Shortage            |A deficiency in amount          | 
+|Cheaper             |Shoddy                          |
+|Fats                | A mixture of such compounds occurring widely in organic tissue, especially in the adipose tissue of animals and in the seeds, nuts, and fruits of plants|
+|Intake              |A thing or a quantity taken in| 
+|High blood pressure |A condition in which the pressure of the blood, especially in the arteries, is abnormally high|
+|Neuro-endocrine system|Of, relating to, or involving the interaction between the nervous system and the hormones of the endocrine glands|
+|Release             |To cause or allow to move away or spread from a source or place of confinement|
+|Glucocorticoids     |Hormones that control the metabolism of fats and carbohydrates. They are produced in the cortex of each adrenal gland|
+|Metabolism          |The chemical processes occurring within a living cell or organism that are necessary for the maintenance of life|
+|Storage             |The act of storing goods        | 
+|Binge-eating        |Consumption of large amounts of food in a short period of time, especially as a symptom of bulimia|
+|Behavior            |The actions or reactions of a person|
 
 ## Analysis table :
 
