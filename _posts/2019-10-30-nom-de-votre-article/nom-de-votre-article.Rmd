@@ -1,14 +1,13 @@
 ---
 title: "Article analysis n°2: Food insecurity in young adults raises risk for diabetes, high blood pressure, asthma"
 description: |
-  A short description of the post.
 author:
   - name: Caroline Ransquin
-date: 10-30-2019
+date: 11-03-2019
 output:
   distill::distill_article:
-    self_contained: falseµ
-draft: TRUE
+    self_contained: false
+draft: FALSE
 ---
 
 ```{r setup, include=FALSE}
@@ -56,7 +55,7 @@ A second study, also led by Nagata, found that the same cohort of food-insecure 
 |Wealthy             |Prosperous                      |
 |Weight              |A system of units for expressing heaviness or mass|
 |Led (to lead)       |Manage                          |
-|Food insecure       |                                |
+|Food insecure       |"sufficient, safe and nutritious food that meets individuals' dietary needs and preferences for an active and healthy life."|
 |Slightly            |A little                        | 
 |Likely              |Possessing or displaying the qualities or characteristics that make something probable|
 |To suffer           |To feel pain or distress; sustain injury or harm|
@@ -92,18 +91,18 @@ A second study, also led by Nagata, found that the same cohort of food-insecure 
 |Storage             |The act of storing goods        | 
 |Binge-eating        |Consumption of large amounts of food in a short period of time, especially as a symptom of bulimia|
 |Behavior            |The actions or reactions of a person|
-|Linked||
-|As well as||
-|Chronic bronchitis||
-|Emphysema||
-|Greater||
-|Exacerbations||
-|Additionally||
-|Boost||
-|Mental health issues||
-|Depression||
-|Panic discorder||
-|Falling asleep||
+|Linked              |Connected, especially by or as if by links|
+|As well as          |Also, too|
+|Chronic bronchitis  |Bronchitis is an inflammation of the air passages between the nose and the lungs, including the windpipe or trachea and the larger air tubes of the lung that bring air in from the trachea (bronchi) and lasting for a long period of time or marked by frequent recurrence|
+|Emphysema           |A pathological condition of the lungs marked by an abnormal increase in the size of the air spaces, resulting in labored breathing and an increased susceptibility to infection|
+|Greater             |greater in size or importance|
+|Exacerbations       |Increase in severity of a disease or any of its symptoms|
+|Additionally        |Also, besides|
+|Boost               |To increase, raise|
+|Mental health issues|Problems relating to the mind|
+|Depression          |Sadness, dejection, esp. sadness greater and longer than considered normal|
+|Panic discorder     |An anxiety disorder characterized by recurrent panic attacks and fear of further attacks|
+|Falling asleep      |To go to sleep|
 
 ## Analysis table :
 
