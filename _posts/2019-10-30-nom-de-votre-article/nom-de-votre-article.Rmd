@@ -14,7 +14,7 @@ draft: FALSE
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Magazine and Source : 
+## Magazine and Source :
 
 Science Daily
 

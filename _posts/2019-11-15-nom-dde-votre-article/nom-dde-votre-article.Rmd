@@ -9,7 +9,7 @@ date: 11-15-2019
 output:
   distill::distill_article:
     self_contained: false
-draft: FALSE
+
 ---
 
 ```{r setup, include=FALSE}
@@ -26,7 +26,8 @@ https://www.sciencedaily.com/releases/2019/10/191007180039.htm
 
 In recent decades, asthma has become a major public health problem. The exponential increase in asthma cases in industrialized countries over the past 50 years is due to major changes in our environment. Among these environmental factors: excessive hygiene, ambient air pollution or respiratory viral infections... Until now, the mechanism by which these particular environments induce the development of asthma was unknown. In a study published in Nature Immunology, Professors Thomas Marichal (FRS-FNRS Research Associate, Welbio and ERC investigator) and Fabrice Bureau (Welbio investigator) and their teams from GIGA ULiège identified a totally unexpected actor who represents a common denominator in different pro-allergic environments: particular neutrophils are recruited into the lung and are responsible for allergic sensitization and asthma development. This discovery allows new therapeutic options to be considered in the prevention and treatment of allergic asthma.
 
-Coraline Radermecker, the first author of the study, first developed three models of asthma in mice induced by pro-allergic environments: excess hygiene, exposure to ozone (an air pollutant) and infection with the influenza virus. In all three models, only mice exposed to pro-allergic environments and then exposed to mites, major allergens in humans, developed symptoms of allergic asthma. She and her colleagues then observed the recruitment of specific innate immune cells, neutrophils, only in the lungs of mice exposed to pro-allergic environments. These neutrophils, once in the lung, release their DNA, causing inflammation that is conducive to the development of an allergic response such as asthma. Surprisingly, when mice exposed to pro-allergic environments are treated with compounds that prevent the recruitment of these neutrophils or the release of their DNA, mice are protected from disease development.
+Coraline Radermecker, the first author of the study, first developed three models of asthma in mice induced by pro-allergic environments: excess hygiene, exposure to ozone (an air pollutant) and infection with the influenza virus. In all three models, only mice exposed to pro-allergic environments and then exposed to mites, major allergens in humans, developed symptoms of allergic asthma. She and her colleagues then observed the recruitment of specific innate immune cells, neutrophils, only in the lungs of mice exposed to pro-allergic environments. These neutrophils, once in the lung, release their DNA, causing inflammation that is conducive to the development of an allergic response such as asthma. 
+Surprisingly, when mice exposed to pro-allergic environments are treated with compounds that prevent the recruitment of these neutrophils or the release of their DNA, mice are protected from disease development.
 
 A recent study identified this same type of particular neutrophils in the blood of a population of American farmers, the Hutterites, exposed to a very high rate of hygiene and having a very high prevalence of allergic asthma. The latter suggests that these neutrophils are also present in humans and may be involved in the development of asthma in humans.
 
@@ -41,25 +42,22 @@ In addition, a molecule already used in human medicine to treat cystic fibrosis,
 |Trigger             |Anything that causes a reaction |
 |FRS-FNRS            |The fund for scientific research|
 |Welbio              |European Research Council           |
-|GIGA ULiège         |University of Liège’s interdisciplinary research institute in the biomedical sciences. |
+|GIGA ULiège         |University of Liège’s interdisciplinary research institute in the biomedical sciences|
 |Unexpected                    |Unforeseen                    |
-|Neutrophil      |A phagocytic, granulocytic white blood cell that occurs in large numbers in the blood, typically moving into tissue after injury or infection, where it destroys bacteria and other pathogens and releases cytokines.|
+|Neutrophil      |A phagocytic, granulocytic white blood cell that occurs in large numbers in the blood, typically moving into tissue after injury or infection, where it destroys bacteria and other pathogens and releases cytokines|
 |Allow               |To offer a possibility          |
 |Mice                |The plural of mouse             |
 |Influenza           |An acute contagious viral infection of humans, characterized by inflammation of the respiratory tract and by fever, chills, muscular pain, and prostration. Also called grippe|
 |Mite                |Any arthropod of the order Acarina, microscipic, transparent and may produce various irritations of the skin|
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
-|                    |                                |
+|Innate              |Genetically determined, and present at birth|
+|Lungs               |The two organs of respiration   |
+|Release             |To set free from confinement    |
+|DNA                 |Abbreviation for deoxyribonucleic acid. Genetic information in cells |
+|Compound            |Made up of diverse elements or ingredients|
+|Farmer              |One who works on or operates a farm|
+|Involved            |Implicated                      |
+|Cystic fibrosis     |A disease in which certain glands of the body produce thickened mucus that clogs the lungs and leads to breathing difficulties|
+|Pulmozyme           |Selectively cleaves to DNA in sputum, decreasing viscosity of pulmonary secretions|
 
 ## Analysis table :
 
