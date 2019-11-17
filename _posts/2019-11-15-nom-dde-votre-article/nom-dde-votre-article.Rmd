@@ -24,7 +24,9 @@ https://www.sciencedaily.com/releases/2019/10/191007180039.htm
 
 ## Article
 
-In recent decades, asthma has become a major public health problem. The exponential increase in asthma cases in industrialized countries over the past 50 years is due to major changes in our environment. Among these environmental factors: excessive hygiene, ambient air pollution or respiratory viral infections... Until now, the mechanism by which these particular environments induce the development of asthma was unknown. In a study published in Nature Immunology, Professors Thomas Marichal (FRS-FNRS Research Associate, Welbio and ERC investigator) and Fabrice Bureau (Welbio investigator) and their teams from GIGA ULiège identified a totally unexpected actor who represents a common denominator in different pro-allergic environments: particular neutrophils are recruited into the lung and are responsible for allergic sensitization and asthma development. This discovery allows new therapeutic options to be considered in the prevention and treatment of allergic asthma.
+In recent decades, asthma has become a major public health problem. The exponential increase in asthma cases in industrialized countries over the past 50 years is due to major changes in our environment. Among these environmental factors: excessive hygiene, ambient air pollution or respiratory viral infections... 
+
+Until now, the mechanism by which these particular environments induce the development of asthma was unknown. In a study published in Nature Immunology, Professors Thomas Marichal (FRS-FNRS Research Associate, Welbio and ERC investigator) and Fabrice Bureau (Welbio investigator) and their teams from GIGA ULiège identified a totally unexpected actor who represents a common denominator in different pro-allergic environments: particular neutrophils are recruited into the lung and are responsible for allergic sensitization and asthma development. This discovery allows new therapeutic options to be considered in the prevention and treatment of allergic asthma.
 
 Coraline Radermecker, the first author of the study, first developed three models of asthma in mice induced by pro-allergic environments: excess hygiene, exposure to ozone (an air pollutant) and infection with the influenza virus. In all three models, only mice exposed to pro-allergic environments and then exposed to mites, major allergens in humans, developed symptoms of allergic asthma. She and her colleagues then observed the recruitment of specific innate immune cells, neutrophils, only in the lungs of mice exposed to pro-allergic environments. These neutrophils, once in the lung, release their DNA, causing inflammation that is conducive to the development of an allergic response such as asthma. 
 Surprisingly, when mice exposed to pro-allergic environments are treated with compounds that prevent the recruitment of these neutrophils or the release of their DNA, mice are protected from disease development.
@@ -63,15 +65,16 @@ In addition, a molecule already used in human medicine to treat cystic fibrosis,
 
 |                                   |                                                                                                                          |
 | ----------------------------------| ------------------------------------------------------------------------------------------------------------------------|
-|**Researchers**                |                       |
-|**Published in, the magazine** |                         |
-|**General topic**              |                       |
-|**Procedure/what was examined**|                     |
-|**Conclusions/discovery**      |                     | 
-|**Remaining questions**        |                    |
+|**Researchers**                |Thomas Marichal (FRS-FNRS Research Associate, Welbio and ERC investigator), Fabrice Bureau (Welbio investigator) and Coraline Radermecker (the first author of the study)|
+|**Published in, the magazine** |October 7, 2019. ScienceDaily|
+|**General topic**              |Neutrophils are recruited into the lung and are responsible for allergic sensitization and asthma development|
+|**Procedure/what was examined**|1)Three models of asthma in mice induced by excess hygiene, exposure to ozone and infection with the influenza virus. 2)Then they observed the recruitment of specific innate immune cells: neutrophils (only in the lungs of mice exposed to pro-allergic environments). 3)These neutrophils are identified in the blood of the Hutterites (a population of American farmers): exposed to a very high rate of hygiene and having a very high prevalence of allergic asthma|
+|**Conclusions/discovery**      |1)Only mice exposed to pro-allergic environments and then exposed to mites developed symptoms of allergic asthma. 2)In the lung, neutrophils release their DNA, causing inflammation that is conducive to the development of an allergic response such as asthma. 3)These neutrophils are also present in humans and may be involved in the development of asthma.| 
+|**Remaining questions**        |A molecule used to treat cystic fibrosis, pulmozyme, could be used to destroy DNA released by neutrophils. Could she prevent the development of asthma in people exposed to high-risk environments? |
 
 ## Sources of Synonyms and Explanations in English :
 
+https://www.thefreedictionary.com/
 
-
+https://www.wordreference.com/
 
