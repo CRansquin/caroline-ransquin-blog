@@ -1,7 +1,6 @@
 ---
 title: "article n°4"
 description: |
-  A short description of the post.
 author:
   - name: Caroline Ransquin
     url: {}
@@ -15,7 +14,68 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+## Magazine and Source :
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Article :
+
+## Vocabulary :
+
+| Word from the text | Synonym/explanation in English |
+|--------------------|--------------------------------|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+
+## Analysis table :
+
+|                                   |                                                                                                                          |
+| ----------------------------------| ------------------------------------------------------------------------------------------------------------------------|
+|**Researchers**                ||
+|**Published in, the magazine** ||
+|**General topic**              ||
+|**Procedure/what was examined**||
+|**Conclusions/discovery**      ||
+|**Remaining questions**        ||
+
+## Sources of Synonyms and Explanations in English :
+
+
+
 

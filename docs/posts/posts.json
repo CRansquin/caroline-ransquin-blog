@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-11-21-article-n4/",
+    "title": "article n°4",
+    "description": {},
+    "author": [
+      {
+        "name": "Caroline Ransquin",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-21",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-29T15:27:56+01:00"
+  },
+  {
     "path": "posts/2019-11-15-nom-dde-votre-article/",
     "title": "Article analysis n°3 : Common denominator that triggers asthma in favorable environments",
     "description": {},
