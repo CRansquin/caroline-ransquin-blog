@@ -1,9 +1,8 @@
 ---
-title: "article n°4"
+title: "Article analysis n°4 : Cracks in the skin of eczema patients promote allergic diseases"
 description: |
 author:
   - name: Caroline Ransquin
-    url: {}
 date: 11-21-2019
 output:
   distill::distill_article:
@@ -16,65 +15,75 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Magazine and Source :
 
+ScienceDaily
+
+https://www.sciencedaily.com/releases/2019/07/190717230345.htm
+
 ## Article :
+
+Many babies with eczema go on to develop food allergies, asthma and hay fever, and researchers say it's not a coincidence. The cracks caused by eczema weaken the skin barrier, allowing allergens to penetrate the skin and cause a sequence of allergic diseases, what experts call the 'atopic march.
+
+Infants who develop eczema are more likely to develop food allergies, hay fever and asthma as they grow older, a progression known as the atopic march. Donald Leung, MD, PhD, head of Pediatric Allergy & Clinical Immunology at National Jewish Health, has identified itching and dry cracked skin of eczema patients as a significant promoter of the atopic march. Moisturizers, especially early in a child's life, may help prevent eczema, food allergies and other allergic diseases.
+
+"When food particles are introduced through the skin rather than the digestive system, they are much more likely to cause allergies," said Dr. Leung. "Cracks in the skin of those with eczema often set off a chain of allergic diseases that develop over several years."
+
+Seventeen-year-old Ava Segur experienced the atopic march first hand. It started with eczema when she was just six weeks old. Her mother, Stephanie, says they were trying to get her skin inflammation under control, when they were suddenly confronted with another problem. "She had hives all over her arms and neck," she said. "So we took her to the hospital and found out she is allergic to peanuts, pine nuts and shellfish." A few years later, Ava developed exercise-induced asthma.
+
+Ava has participated in numerous clinical trials seeking better treatments for eczema and a better understanding of the atopic march. "If we can find a solution that will work to stop this before it starts, it will be very rewarding to know that I was able to be a part of that," said Ava.
+
+"Restoring the skin barrier as soon as eczema develops is the best way to stop the atopic march in its tracks and prevent allergic diseases from developing," said Dr. Leung.
+
+The skin forms an important barrier, keeping moisture in and external allergens or microbes out. Research by Dr. Leung has shown that patients with eczema lack important proteins and lipids in the outer layers of their skin. As a result of eczema patients' defective skin barrier, water escapes from the skin, drying it out and leading to cracking and itching. Cracked, itchy skin is a hallmark of eczema.
+
+Scratching the dry, itchy skin of eczema patients can further damage the skin barrier and activate the immune system. Increasing evidence compiled by Dr. Leung and others indicates that food particles entering the body through cracks in the skin can trigger an allergic response that leads to food allergy. Once that allergic response has been triggered, the immune system is primed to develop not only eczema and food allergies, but also hay fever and asthma.
+
+To do this, experts recommend what they call "soak and seal," which involves thoroughly moisturizing the skin in a warm bath, then trapping the moisture in with a moisturizing ointment. It's a method Kriston Kline says helped her 19-month-old son's skin begin to heal within a week.
+
+"It provided him with immediate relief, and each time we do a soak-and-seal treatment, his skin looks so much better," said Kline. "Not only is this making him more comfortable now, but if it can help protect him from allergies and asthma, that is a huge benefit for his future."
+
+Dr. Leung believes that careful care of a baby's skin right from birth could prevent eczema and other allergic diseases. A baby's skin is particularly susceptible to drying out when it first emerges from the warm, watery environment of the womb into the dry air of the outside world. A few small studies have suggested that regular treatment with skin moisturizers can help reduce an infant's chances of developing eczema and the other diseases in the atopic march. Dr. Leung is currently working to confirm those studies and identify the ideal moisturizer components to prevent eczema and the other diseases of the atopic march.
 
 ## Vocabulary :
 
 | Word from the text | Synonym/explanation in English |
 |--------------------|--------------------------------|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|Hay fever|Allergic irritation of the mucous membranes of the nose, eyes, throat, and lungs, caused by plant pollen.|
+|Crack|A slight opening|
+|Eczema|An inflammatory condition of the skin attended with itching and the exudation of serous matter.|
+|Weaken|To make or become weak or weaker.|
+|Allow|To let do or happen.|
+|Allergens|Any substance that induces an allergy, such as pollen, grasses, certain foods, and medications.|
+|Itching|Characterized by an irritating sensation of the skin.|
+|Moisturizer|A cosmetic preparation, as a cream or lotion, used to restore moisture to the skin, esp. of the face and neck.|
+|Hives|A rash characterized by intensely itching welts, triggered by the release of histamine and caused by an allergic response to any of multiple agents or conditions, including food, drugs, and infections.|
+|Shellfish|An animal living in water and having a shell, such as the oyster or other mollusks.|
+|Clinical trials|Highly regulated and carefully controlled patient studies, where either new drugs to treat cancer or novel methods of treatment are investigated.|
+|Seeking|To go in search of|
+|Rewarding|Giving satisfaction.|
+|Lack|Absence of something needed.|
+|Layer|A single thickness of a material covering a surface or forming an overlying part or segment.|
+|Hallmark|A conspicuous feature or characteristic.|
+|Further|To help forward.|
+|Trigger| A device used to release or activate a mechanism.|
+|Soak|To become thoroughly wet or filled with water or other liquid.|
+|Ointment|Soft, smooth, oily or slightly greasy preparation, often medicated, for application to the skin.|
+|Heal|to become healthy or well again|
+|Relief|The ending or lessening of pain, distress, worry, fear,...|
+|Womb|The uterus of the human female.|
+|Component|An ingredient|
 
 ## Analysis table :
 
 |                                   |                                                                                                                          |
 | ----------------------------------| ------------------------------------------------------------------------------------------------------------------------|
 |**Researchers**                ||
-|**Published in, the magazine** ||
+|**Published in, the magazine** |July 17, 2019. ScienceDaily|
 |**General topic**              ||
 |**Procedure/what was examined**||
 |**Conclusions/discovery**      ||
 |**Remaining questions**        ||
 
-## Sources of Synonyms and Explanations in English :
+
 
 
 
