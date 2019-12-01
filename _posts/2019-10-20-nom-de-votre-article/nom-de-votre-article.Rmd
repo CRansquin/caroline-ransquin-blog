@@ -1,7 +1,6 @@
 ---
 title: "Article analysis n°1 : Microbes from farms may protect children from asthma even in cities"
 description: |
-  This article discusses a Finish study about asthma and bacteria from farms.
 author:
   - name: Caroline Ransquin
     url: {}
