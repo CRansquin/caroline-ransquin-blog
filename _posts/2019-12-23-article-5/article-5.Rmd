@@ -1,0 +1,75 @@
+---
+title: "Article analysis n°5 : Asthma severity linked to microbiome of upper airway"
+description: |
+author:
+  - name: Caroline Ransquin
+date: 12-23-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Magazine and Source :
+
+ScienceDaily
+
+https://www.sciencedaily.com/releases/2019/12/191216110119.htm
+
+## Article :
+
+A new study led by Washington University School of Medicine in St. Louis suggests there is a link between bacteria that live in the upper airway and the severity of asthma symptoms among children with mild to moderate asthma.
+
+The study raises the possibility that the airway's microbiome could have a causal role in the severity of asthma symptoms. The research paves the way for future studies to discover whether altering the types of bacteria that live in the upper airway could help patients with asthma.
+
+The findings appear Dec. 16 in the journal Nature Communications.
+
+"There is an urgent need to develop better asthma therapies for these patients," said senior author Avraham Beigelman, MD, an associate professor of pediatrics at Washington University. "Though our study can't prove causation, it raises intriguing questions that we plan to pursue. If we somehow supplement such patients with what appear to be good bacteria, will they do better? We are interested in studying whether we can deliberately alter the airway microbiome to reduce the risk of worsening asthma symptoms."
+
+In the U.S., more than 6 million children under age 18 have asthma, or about 1 in 12. It is the leading chronic pediatric disease and the No. 1 reason for missed school days, according to the Asthma and Allergy Foundation of America.
+
+The researchers found that children who experienced early warning signs that their asthma was going to flare up were more likely to have bacteria associated with disease -- including Staphylococcus, Streptococcus and Moraxella bacterial groups -- living in their upper airways. In contrast, airway microbes dominated by Corynebacterium and Dolosigranulum bacteria were associated with periods of good health, when asthma was well-controlled.
+
+Beigelman and his colleagues also found that children whose airway microbial communities switched from being dominated by Corynebacterium and Dolosigranulum bacteria to being dominated by Moraxella bacteria were at the highest risk of worsening asthma symptoms compared with children whose microbial communities made any other kind of shift.
+
+"Our data demonstrated a rapid change of the airway microbiome in the children who transitioned from respiratory health to disease," said first author Yanjiao Zhou, MD, PhD, who conducted postdoctoral microbiome and bioinformatics research at Washington University before joining the faculty at the University of Connecticut. "It is also intriguing to find that the microbiome changing pattern could play an important role in asthma exacerbation. We are planning future studies to explore this possibility."
+
+The upper airway microbiome study was conducted in conjunction with a clinical trial involving 214 children ages 5 to 11 with mild to moderate asthma. The trial -- called Step Up Yellow Zone Inhaled Corticosteroids to Prevent Exacerbations (STICS) -- was conducted as part of AsthmaNet, a national network of medical centers conducting asthma research funded by the National Heart, Lung, and Blood Institute (NHLBI) of the National Institutes of Health (NIH). Washington University is an AsthmaNet site, and asthma specialist and co-author of the current microbiome study, Leonard B. Bacharier, MD, a professor of pediatrics at Washington University, led the pediatric portion of the STICS trial at Washington University.
+
+The clinical trial's purpose was to determine whether quintupling the dose of an inhaled corticosteroid at the first signs of worsening asthma was better than keeping a low dose of the same medication. The trial found no benefit to the larger dose, and those results were published in The New England Journal of Medicine in 2018.
+
+During that trial, the researchers also collected nasal mucus samples from the children to study their upper airway microbiomes. Samples were collected at the beginning of the trial, when all of the participants had controlled asthma, as well as at the first early signs that asthma control was slipping.
+
+Based on these findings, Beigelman and Zhou said they plan to conduct studies in mice with carefully controlled airway microbiomes to see if the researchers can uncover a causal role for bacteria in asthma severity. In addition, such experiments could allow them to test different interventions that might deliberately alter the upper airway bacteria in a way that could be protective.
+
+## Vocabulary :
+
+| Word from the text | Synonym/explanation in English |
+|--------------------|--------------------------------|
+|upper airway|The portion of the respiratory tract that extends from the nares or mouth to and including the larynx|
+|mild|Not severe or acute|
+|microbiome|The complete genetic content of all the microorganisms that typically inhabit in the body|
+|to pave|To make progress or development easier
+|whether|used to introduce the first of two or more alternative conditions|
+|somehow|In a way not specified, understood, or known|
+|to flare up|To become manifest suddenly and in full force|
+|data|information|
+|involve| To engage as a participant|
+|purpose|goal|
+|trial|The act or process of testing, trying, or putting to the proof|
+|slip|To pass gradually, easily, or imperceptibly into a different state|
+
+## Analysis table :
+
+|                                   |                                                                                                                          |
+| ----------------------------------| ------------------------------------------------------------------------------------------------------------------------|
+|**Researchers**                |Avraham Beigelman (MD, an associate professor of pediatrics at Washington University), Yanjiao Zhou (MD, PhD, who conducted postdoctoral microbiome and bioinformatics research at Washington University before joining the faculty at the University of Connecticut), Leonard B. Bacharier (MD, a professor of pediatrics at Washington University, led the pediatric portion of the STICS trial at Washington University)|
+|**Published in, the magazine** |December 16, 2019. ScienceDaily|
+|**General topic**              |There is a link between bacteria that live in the upper airway and the severity of asthma symptoms among children with mild to moderate asthma.|
+|**Procedure/what was examined**|Clinical trial (= STICS) involving 214 children ages 5 to 11 with mild to moderate asthma. The purpose was to determine whether quintupling the dose of an inhaled corticosteroid at the first signs of worsening asthma was better than keeping a low dose of the same medication. Samples of nasal mucus are also collected at the  beginning of the trial.|
+|**Conclusions/discovery**      |The trial (= STICS) found no benefit to the larger dose.There is not veritable conclusion but this research lead to a new study mice with carefully controlled airway microbiomes to see if bacteria have a causal role in asthma severity.|
+|**Remaining questions**        |Altering the types of bacteria that live in the upper airway could help patients with asthma?|
+
