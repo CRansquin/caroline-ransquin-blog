@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Magazine and Source :
 
-NewScientist
+NewScientist 
 
 https://www.newscientist.com/article/2206654-microbes-from-farms-may-protect-children-from-asthma-even-in-cities/
 
