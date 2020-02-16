@@ -66,9 +66,9 @@ Some cases of asthma are temporary, resolving in childhood, while others persist
 
 |                                   |                                                                                                                          |
 | ----------------------------------| ------------------------------------------------------------------------------------------------------------------------|
-|**Researchers**                ||
-|**Published in, the magazine** ||
-|**General topic**              ||
-|**Procedure/what was examined**||
-|**Conclusions/discovery**      ||
-|**Remaining questions**        ||
+|**Researchers**                |Susanne Brix (Technical University of Denmark)|
+|**Published in, the magazine** |February 16, 2020. New Scientist|
+|**General topic**              |A young child's immune system reaction may affect whether they develop temporary or persistent asthma. |
+|**Procedure/what was examined**|Exposing blood samples from 541 children aged 18 months to compounds (viruses, vaccines,... |
+|**Conclusions/discovery**      |Two proteins seem to cause asthma. If T cells produce more of these proteins, children are more likely to develop asthma at 6 years old. Also there are differences in the immune reponses between girls and boys. Boys'T cells respond more to bacteria and fungi while girls'T cells seem to respond more to viruses (-> sex hormones ?).|
+|**Remaining questions**        |What are the best treatments for different types of asthma ? Do sex hormones influence the development of asthma ? |
