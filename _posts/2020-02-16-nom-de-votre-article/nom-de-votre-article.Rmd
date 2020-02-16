@@ -1,0 +1,74 @@
+---
+title: "Article analysis n°6 : Overactive immune cells in babies may lead to childhood asthma"
+description: |
+author:
+  - name: Caroline Ransquin
+date: 02-16-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Magazine and Source :
+
+New Scientist
+
+https://www.newscientist.com/article/2232641-overactive-immune-cells-in-babies-may-lead-to-childhood-asthma/
+
+## Article :
+
+The way a young child’s immune system works seems to influence whether they will go on to develop temporary or persistent asthma. The finding could help identify more targeted treatments for different types of asthma, say researchers.
+
+By the time a child is 18 months old, they have already been exposed to a lot of bacteria, viruses and fungi. This starts to shape a child’s immune system for later life.
+
+To find out if such experiences might also predict a child’s risk of developing asthma, Susanne Brix at the Technical University of Denmark and her colleagues followed a group of infants in Denmark for the first six years of their lives.
+
+The team looked at how immune cells work in toddlers, and whether this is linked to the children’s risk of developing asthma by the time they were six. “Asthma is pretty prevalent in the Nordic European countries,” says Brix. “We have a prevalence of around 20 per cent in early childhood.”
+
+Brix and her colleagues first took blood samples from 541 children aged 18 months. Each sample was then exposed to a range of compounds – such as fragments of viruses or components of vaccines – to see how immune cells in the blood would respond.
+
+The responses of a particular type of immune cell seem to be linked to a child’s later risk of asthma, says Brix. This cell type, called a T helper cell, responds to potentially harmful pathogens by releasing a range of proteins.
+
+Two specific proteins seem to be linked to whether a child will go on to develop asthma. Those whose immune cells produce more of these proteins are significantly more likely to have asthma when they are six years old, says Brix.
+
+Her team also found differences in the immune response between girls and boys. The immune cells in blood samples taken from boys responded more strongly to bacteria and fungi, while girls seem to mount stronger responses to viruses.
+
+Brix doesn’t know why this might be, but she suspects sex hormones like testosterone may be influencing the immune system. The difference may explain why boys are more likely to develop asthma early in life, says Brix.
+
+Creating a test to predict which babies will develop asthma would be hard, but Brix says she hopes that her research might help to identify the best treatments for different types of asthma.
+
+Some cases of asthma are temporary, resolving in childhood, while others persist. The transient type is more common in boys, says Brix. It may be that one type of asthma is linked to the immune system’s response to viruses, while another is linked to the response to bacteria. Better targeted treatments could potentially be developed to treat each type, she says.
+
+## Vocabulary :
+
+| Word from the text | Synonym/explanation in English |
+|--------------------|--------------------------------|
+|Go on to|To continue something or to continue to do something|
+|Target|A desired goal|
+|By the time|At the time when something happens that is after another event or situation has already passed or occurred|
+|To shape|To develop into a particular form or condition|
+|Immune system| a complex system of cellular and molecular components whose primary function is distinguishing self from nonself and defense against foreign organisms or substances|
+|Whether|used to introduce the first of two or more alternative conditions|
+|Toddler|a child who has just started to walk but may be unsteady on his or her feet|
+|Compound|a substance made up of two or more materials|
+|T cell|a lymphocyte formed in the bone marrow from which it migrates to the thymic cortex to become an immunologically competent cell|
+|Harmful|Causing or capable of causing harm. Damaging, bad, dangerous|
+|To mount|display, exhibit|
+|Sex hormones|glandular secretions involved in the regulation of sexual functions (Testosterone, estrogens, progesterone)|
+|Childhood|The period of development between infancy and puberty|
+
+
+## Analysis table :
+
+|                                   |                                                                                                                          |
+| ----------------------------------| ------------------------------------------------------------------------------------------------------------------------|
+|**Researchers**                ||
+|**Published in, the magazine** ||
+|**General topic**              ||
+|**Procedure/what was examined**||
+|**Conclusions/discovery**      ||
+|**Remaining questions**        ||
