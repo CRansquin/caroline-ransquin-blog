@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Magazine and Source :
 
-Science Daily
+Science Daily 
 
 https://www.sciencedaily.com/releases/2020/02/200218182154.htm
 
