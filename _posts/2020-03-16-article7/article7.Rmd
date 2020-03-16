@@ -31,9 +31,10 @@ The study was published today in the Canadian Medical Association Journal. It fo
 
 In the study, at three years of age, children living in homes where cleaning products were used with high frequency during their infancy were more likely to have:
 
-Recurrent wheeze (10.8 percent, compared to 7.7 percent of infants in homes with low use of these products)
-Recurrent wheeze with atopy, a heightened immune response to common allergens (3.0 percent, compared to 1.5 percent of infants in homes with low use of these products)
-Asthma (7.9 percent, compared to 4.8 percent of infants in homes with low use of these products)
+* Recurrent wheeze (10.8 percent, compared to 7.7 percent of infants in homes with low use of these products)
+* Recurrent wheeze with atopy, a heightened immune response to common allergens (3.0 percent, compared to 1.5 percent of infants in homes with low use of these products)
+* Asthma (7.9 percent, compared to 4.8 percent of infants in homes with low use of these products)
+
 Other factors known to affect the onset of asthma, such as family history and early life exposure to tobacco smoke, were accounted for in the analysis.
 
 "Interestingly, we did not find an association between the use of cleaning products and a risk of atopy alone," noted Dr. Takaro. "Therefore, a proposed mechanism underlying these findings is that chemicals in cleaning products damage the cells that line the respiratory tract through innate inflammatory pathways rather than acquired allergic pathways."
@@ -50,44 +51,30 @@ The study used data from 2,022 children participating in the CHILD Cohort Study 
 
 | Word from the text | Synonym/explanation in English |
 |--------------------|--------------------------------|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|cohort|Supporters of ideas, plans or people|
+|childhood|the state or period of being a child|
+|end up|to reach or come to an end, usually unpleasant|
+|childhood wheeze|To make a sound resembling laborious breathing|
+|available |obtainable or accessible|
+|the onset of asthma| The beginning or start of asthma|
+|underlying|that can be discovered only by close analysis or examination|
+|innate|existing from birth|
+|pathways| The route by which a process occurs|
+|dishwashing detergents|detergent designed for use in dishwashers|
+|laundry detergents|detergents designed for use in a washing machine for clothing|
+|polishes|a substance used to give smoothness or gloss|
+|plug-in deodorizer|deodorizer designed to be plugged in to an electric circuit|
+|dusting spray|spray to wipe the dust from|
+|scented|with a distinctive smell, esp a pleasant one|
+|takeaway|to pick or choose from a number of alternatives, 
+select|
+|subsequent|occurring after|
 
 ## Analysis table :
 
 |                                   |                                                                                                                          |
 | ----------------------------------| ------------------------------------------------------------------------------------------------------------------------|
-|**Researchers**                ||
+|**Researchers**                |Dr. Tim Takaro (professor and clinician- scientist in the Faculty of Health Sciences at Simon Fraser University (SFU)) and Jaclyn Parks (graduate student in the Faculty of Health Sciences at SFU)|
 |**Published in, the magazine** |February 18, 2020. Science Daily|
 |**General topic**              ||
 |**Procedure/what was examined**||
