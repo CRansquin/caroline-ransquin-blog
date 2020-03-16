@@ -66,8 +66,7 @@ The study used data from 2,022 children participating in the CHILD Cohort Study 
 |plug-in deodorizer|deodorizer designed to be plugged in to an electric circuit|
 |dusting spray|spray to wipe the dust from|
 |scented|with a distinctive smell, esp a pleasant one|
-|takeaway|to pick or choose from a number of alternatives, 
-select|
+|takeaway|to pick or choose from a number of alternatives,select|
 |subsequent|occurring after|
 
 ## Analysis table :
