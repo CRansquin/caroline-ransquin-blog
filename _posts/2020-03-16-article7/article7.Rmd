@@ -1,0 +1,96 @@
+---
+title: "Exposure to cleaning products in first 3 months of life increases risk of childhood asthma"
+description: |
+author:
+  - name: Caroline Ransquin
+date: 03-16-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Magazine and Source :
+
+Science Daily
+
+https://www.sciencedaily.com/releases/2020/02/200218182154.htm
+
+## Article :
+
+New research from the CHILD Cohort Study shows that frequent exposure to common household cleaning products can increase a child's risk of developing asthma.
+
+Asthma is the most common chronic childhood disease and is the primary reason why children miss school or end up in hospital.
+
+The study was published today in the Canadian Medical Association Journal. It found that young infants (birth to three months) living in homes where household cleaning products were used frequently were more likely to develop childhood wheeze and asthma by three years of age.
+
+"Most of the available evidence linking asthma to the use of cleaning products comes from research in adults," said the study's lead researcher, Dr. Tim Takaro, a professor and clinician- scientist in the Faculty of Health Sciences at Simon Fraser University (SFU). "Our study looked at infants, who typically spend 80-90% of their time indoors and are especially vulnerable to chemical exposures through the lungs and skin due to their higher respiration rates and regular contact with household surfaces."
+
+In the study, at three years of age, children living in homes where cleaning products were used with high frequency during their infancy were more likely to have:
+
+Recurrent wheeze (10.8 percent, compared to 7.7 percent of infants in homes with low use of these products)
+Recurrent wheeze with atopy, a heightened immune response to common allergens (3.0 percent, compared to 1.5 percent of infants in homes with low use of these products)
+Asthma (7.9 percent, compared to 4.8 percent of infants in homes with low use of these products)
+Other factors known to affect the onset of asthma, such as family history and early life exposure to tobacco smoke, were accounted for in the analysis.
+
+"Interestingly, we did not find an association between the use of cleaning products and a risk of atopy alone," noted Dr. Takaro. "Therefore, a proposed mechanism underlying these findings is that chemicals in cleaning products damage the cells that line the respiratory tract through innate inflammatory pathways rather than acquired allergic pathways."
+
+"We also found that at age three, the relationship between product exposure and respiratory problems was much stronger in girls than boys," he added. "This is an interesting finding that requires more research to better understand male versus female biological responses to inflammatory exposures in early life."
+
+The study used data from 2,022 children participating in the CHILD Cohort Study and examined their daily, weekly and monthly exposure to 26 types of household cleaners, including dishwashing and laundry detergents, cleaners, disinfectants, polishes, and air fresheners.
+
+"The risks of recurrent wheeze and asthma were notably higher in homes with frequent use of certain products, such as liquid or solid air fresheners, plug-in deodorizers, dusting sprays, antimicrobial hand sanitizers and oven cleaners," commented the paper's lead author, Jaclyn Parks, a graduate student in the Faculty of Health Sciences at SFU. "It may be important for people to consider removing scented spray cleaning products from their cleaning routine. We believe that the smell of a healthy home is no smell at all."
+
+"The big takeaway from this study is that the first few months of life are critical for the development of a baby's immune and respiratory systems," concluded Parks. "By identifying hazardous exposures during infancy, preventive measures can be taken to potentially reduce childhood asthma and subsequent allergy risk."
+
+## Vocabulary :
+
+| Word from the text | Synonym/explanation in English |
+|--------------------|--------------------------------|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+
+## Analysis table :
+
+|                                   |                                                                                                                          |
+| ----------------------------------| ------------------------------------------------------------------------------------------------------------------------|
+|**Researchers**                ||
+|**Published in, the magazine** |February 18, 2020. Science Daily|
+|**General topic**              ||
+|**Procedure/what was examined**||
+|**Conclusions/discovery**      ||
+|**Remaining questions**        ||
+
