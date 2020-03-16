@@ -1,5 +1,5 @@
 ---
-title: "Exposure to cleaning products in first 3 months of life increases risk of childhood asthma"
+title: "Article analysis n°7 : Exposure to cleaning products in first 3 months of life increases risk of childhood asthma"
 description: |
 author:
   - name: Caroline Ransquin
