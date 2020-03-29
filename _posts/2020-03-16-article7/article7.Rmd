@@ -75,8 +75,8 @@ The study used data from 2,022 children participating in the CHILD Cohort Study 
 | ----------------------------------| ------------------------------------------------------------------------------------------------------------------------|
 |**Researchers**                |Dr. Tim Takaro (professor and clinician- scientist in the Faculty of Health Sciences at Simon Fraser University (SFU)) and Jaclyn Parks (graduate student in the Faculty of Health Sciences at SFU)|
 |**Published in, the magazine** |February 18, 2020. Science Daily|
-|**General topic**              ||
-|**Procedure/what was examined**||
-|**Conclusions/discovery**      ||
-|**Remaining questions**        ||
+|**General topic**              |The risk of childhood asthma increases with the exposure to cleaning products in first 3 months of life.|
+|**Procedure/what was examined**|Infants (2,022) who typically spend 80-90% of their time indoors and are especially vulnerable to chemical exposures. The study examined 26 types of household cleaners.|
+|**Conclusions/discovery**      |At three years of age, these children were more likely to have : Recurrent wheeze, recurrent wheeze with atopy and asthma but this study doesn't show an association between a risk of atopy alone and the use of cleaning products. So it's proposed that chemicals in cleaning products damage the cells that line the respiratory tract through innate inflammatory pathways rather than acquired allergic pathways.Also the study show that at the age of three years, the relationship between respiratory problems and product exposure was less stronger in boys than girls.|
+|**Remaining questions**        |Are there any differences between male and female biological responses to inflammatory exposures in early life ?|
 
