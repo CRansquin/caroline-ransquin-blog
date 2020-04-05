@@ -15,6 +15,60 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Every day I Watch an episode of my series in English with French subtitles.
+* Every evening I Watch an episode of my series in English with French subtitles (September to December).
+* Every evening I Watch an episode of my series in English with English subtitles (January to today).
+
+
+# **September**
+
+* **21/09/2019** : I read some articles to choose the topic of my portfolio.
+* **22/09/2019** : I choose the topic of asthma so I read articles about asthma.
+* **27/09/2019** : I find my first article.
+
+# **October**
+
+* **12/10/2019** : I go to the cinema to see a film in VOSTFR.
+* **19/10/2019** : I watched some videos about asthma and I worked on my blog.
+* **24/10/2019** : I searched for some Youtube channels about science and I found : TED-Ed, IBiology and Bozeman science.
+
+# **November**
+
+* **02/11/2019** : I read some articles to choose the next article.
+* **08/11/2019** : I watched "From Paris With Love" in English with my Boyfriend.
+* **15/11/2019** : I read some articles to choose the next article.
+* **22/11/2019** : I play sports with English videos.
+* **28/11/2019** : I read some articles to choose the next article.
+
+# **December**
+
+* **02/12/2019** : I watched video from the Youtube channel "Vogue" about Camila Mendes makeup.
+* **13/12/2019** : I read some articles to choose the next article.
+* **21/12/2019** : I watched some videos from the Youtube channel "IBiology".
+
+# **January**
+
+* **04/01/2019** : I watched a video about ethology.
+* **26/01/2019** : I watched "The Age of Adaline" in English with my mother.
+
+# **February**
+
+* **13/02/2019** : I read some articles to choose the next article.
+* **22/02/2019** : I watched some videos from the Youtube channel "Bozeman science".
+* **27/02/2019** : I read some articles to choose the next article.
+* **28/02/2019** : I have a lunch with an English speaking friend.
+
+# **March**
+
+* **07/03/2019** : I help my little brother with his English homework.
+* **14/03/2019** : It's my birthday and my mom planned karaoke with my family so we sang a lot of songs including songs in English.
+* **28/03/2019** : I watched some videos from the Youtube channel "Vogue".
+
+# **April**
+
+* **04/04/2019** : I play sports with English videos.
+
+
+
+
 
 
