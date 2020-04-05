@@ -1,7 +1,6 @@
 ---
 title: "my English activity"
 description: |
-  A short description of the post.
 author:
   - name: Caroline Ransquin
     url: {}

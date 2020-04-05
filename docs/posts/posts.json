@@ -47,7 +47,7 @@
   {
     "path": "posts/english activity log/",
     "title": "my English activity",
-    "description": "A short description of the post.",
+    "description": {},
     "author": [
       {
         "name": "Caroline Ransquin",
@@ -57,7 +57,7 @@
     "date": "2019-11-28",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-04-05T12:46:38+02:00"
+    "last_modified": "2020-04-05T12:58:05+02:00"
   },
   {
     "path": "posts/article 4/",
